@@ -1,5 +1,5 @@
-# ono-tebe-nado
+# posmotri_v_okno
 
 Ссылки:
 
-- Репозиторий проекта: https://github.com/Mazalovalex/ono-tebe-nado
+- Репозиторий проекта: https://github.com/Mazalovalex/posmotri_v_okno
